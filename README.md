@@ -30,4 +30,6 @@ To run, you need to mount the config.json and ranges.json files
 
 ## List of Companies
 
+* Nintendo
 * Sony Interactive Entertainment
+* Valve
