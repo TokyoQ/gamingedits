@@ -30,8 +30,12 @@ To run, you need to mount the config.json and ranges.json files
 
 ## List of Companies
 
+* Activision
+* Blizzard
 * IGN Entertainment
 * Nintendo
 * Sony Interactive Entertainment
+* Square Enix
 * Twitch
+* Ubisoft
 * Valve
