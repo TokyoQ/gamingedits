@@ -1,0 +1,6 @@
+config.json
+.secret
+node_modules/*
+package-lock.json
+banks.txt
+
