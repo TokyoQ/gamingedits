@@ -32,10 +32,14 @@ To run, you need to mount the config.json and ranges.json files
 
 * Activision
 * Blizzard
+* Gamestop
 * IGN Entertainment
+* Konami
 * Nintendo
+* Sega
 * Sony Interactive Entertainment
 * Square Enix
 * Twitch
 * Ubisoft
 * Valve
+* Zynga

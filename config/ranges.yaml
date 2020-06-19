@@ -25,10 +25,22 @@ Blizzard:
   - 137.221.104.0/22
   - 137.221.108.0/23
 
+Gamestop:
+  #AS32567
+  - 12.14.170.0/24
+  - 12.25.107.0/24
+  - 104.251.0.0/20
+
 IGN Entertainment:
   #AS27437
   - 69.10.16.0/21
-  
+
+Konami:
+  #AS46854
+  - 66.100.108.0/24
+  - 198.102.223.0/24
+  - 74.113.217.0/24
+
 Nintendo: #only Nintendo of America?
   #AS11278
   - 66.193.36.0/24
@@ -40,6 +52,10 @@ Nintendo: #only Nintendo of America?
   - 192.159.188.0/23
   - 92.159.184.0/23
   - 173.226.198.0/24
+
+Sega:
+  #AS37919
+  - 157.109.160.0/22
 
 Sony Interactive Entertainment:
   #AS55901
@@ -157,8 +173,28 @@ Valve:
   - 208.64.200.0/22
   - 208.78.164.0/22
 
+Zynga:
+  #AS54107
+  - 74.114.8.0/24
+  - 199.48.104.0/22
+  #AS14824
+  - 199.48.105.0/24
 
-# Electronic Arts
 
 
+### TO DO ###
+
+# Electronic Arts - lots of ranges
+
+### CANT DO ###
+
+# Atari 
+# Bethesda
+# CD Project Red - can't find
+# Gamespot - can't find
+# Insomniac - can't find
+# Kotaku - can't find
+# Naughty Dog - can't find
+# PC Gamer - can't find
+# Polygon - can't find
 # Xbox - can't separate from Microsoft
